@@ -1,5 +1,8 @@
 {
-  "name": "xiag/rql-parser",
+  "name": "skvskv/xiag-rql-parser",
+  "type": "library",
+  "version": "0.1",
+  "description": "PHP reflection-based dependency injection container with auto-wiring, auto-registration and interception support",
   "keywords": ["rest", "rql", "resource", "query", "language", "parser"],
   "license": "GPL-2.0",
   "autoload": {
